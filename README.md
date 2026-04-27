@@ -6,8 +6,7 @@ A community-driven skill exchange platform where people trade time instead of mo
 
 ## 🌐 Live Demo
 
-> _Add your GitHub Pages / Netlify / Vercel link here_
-
+> https://mahitha-2776.github.io/Time-Bank-Platform-DTI/
 ---
 
 ## 📁 Project Structure
@@ -50,7 +49,7 @@ No installation or build tools needed — this is a plain HTML/CSS/JS project.
 
 **Option 2 — Clone via Git:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/timebank-app.git
+git clone https://mahitha-2776.github.io/Time-Bank-Platform-DTI/
 cd timebank-app
 # Open index.html in your browser
 ```
@@ -88,13 +87,11 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
+---### Team Members & Roles
+- Kakinada Mahitha - Role: Application Structure & Feature Integration
+- Chegondi Revathi - Role: Styling & Presentation
+- Sririki Sindhu - Role: JavaScript Logic & Dynamic Features
+- Vedangi Sathvika - Forms & User Interaction
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-
----
 
 > _Built with ❤️ using pure HTML, CSS, and JavaScript — no frameworks needed._
