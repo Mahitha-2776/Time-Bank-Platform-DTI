@@ -1,4 +1,4 @@
-# 📖 TimeBank — Complete Project Documentation
+# 📖 TimeBank — Project Documentation
 
 > **Live Demo:** https://mahitha-2776.github.io/Time-Bank-Platform-DTI/
 > **Tech Stack:** HTML5 · CSS3 · Vanilla JavaScript
@@ -675,14 +675,12 @@ Building TimeBank taught the following key skills:
 - **GitHub** — Version control and hosting
 - **GitHub Pages** — Free deployment
 - **Chrome DevTools** — Debugging and responsive testing
-- **v0.dev** — UI design assistance
 
-### Team
-- **Mahitha** — Developer & Designer
-- **Project Type** — DTI (Design Thinking and Innovation) Coursework
-
+### Team Members & Roles
+- Kakinada Mahitha - Role: Application Structure & Feature Integration
+- Chegondi Revathi - Role: Styling & Presentation
+- Sririki Sindhu - Role: JavaScript Logic & Dynamic Features
+- Vedangi Sathvika - Forms & User Interaction
 ---
 
-_TimeBank v1.0.0 — April 2026_
-
-_Live Demo: https://mahitha-2776.github.io/Time-Bank-Platform-DTI/_
+_
