@@ -1,4 +1,4 @@
-[DOCUMENTATION (1).md](https://github.com/user-attachments/files/27144438/DOCUMENTATION.1.md)[Uploading DOC# 📖 TimeBank — Complete Technical Documentation
+📖 TimeBank — Complete Technical Documentation
 
 > **Live Demo:** https://mahitha-2776.github.io/Time-Bank-Platform-DTI/
 > **Tech Stack:** HTML5 · CSS3 · Vanilla JavaScript
@@ -586,7 +586,3 @@ ws.onmessage = (event) => {
 
 ---
 
-_Documentation written for TimeBank v1.0.0 — April 2026_
-
-_Live Demo: https://mahitha-2776.github.io/Time-Bank-Platform-DTI/_
-UMENTATION (1).md…]()
